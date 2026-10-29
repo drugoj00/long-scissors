@@ -94,4 +94,4 @@ Windows 10 or 11 (64-bit). Administrator rights are optional. Copying text uses 
 - System and microphone sound are recorded separately and aligned by the clock; a small shift is possible.
 - Tested on Windows 11; screen and sound recording was not tested separately on Windows 10.
 - The installer is not signed with a publisher certificate: Windows may show a SmartScreen warning (“More info” → “Run anyway”).
-- The program is unofficial; ffmpeg is inside, LGPL/GPL.
+- ffmpeg is inside, LGPL/GPL.
